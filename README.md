@@ -1,5 +1,5 @@
 # ATM-Software
-ATM software system for customers and admins to perform cash transactions, account management, and activity reports.
+ATM software system for customers and admins to perform cash transactions, accounts management, and report generation activities.
 
 ## Customer Menu
 1----Withdraw Cash </br>
