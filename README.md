@@ -2,7 +2,7 @@
 ATM software system for customers and admins to perform cash transactions, account management, and activity reports.
 
 ## Customer Menu
-1 --- Withdraw Cash
+1 --- Withdraw Cash \n
 2 --- Cash Transfer
 3 --- Deposit Cash
 4 --- Display Balance
