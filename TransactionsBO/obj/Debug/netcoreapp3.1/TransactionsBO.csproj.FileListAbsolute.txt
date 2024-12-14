@@ -1,0 +1,10 @@
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\bin\Debug\netcoreapp3.1\TransactionsBO.deps.json
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\bin\Debug\netcoreapp3.1\TransactionsBO.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\bin\Debug\netcoreapp3.1\TransactionsBO.pdb
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\obj\Debug\netcoreapp3.1\TransactionsBO.csproj.AssemblyReference.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\obj\Debug\netcoreapp3.1\TransactionsBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\obj\Debug\netcoreapp3.1\TransactionsBO.AssemblyInfoInputs.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\obj\Debug\netcoreapp3.1\TransactionsBO.AssemblyInfo.cs
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\obj\Debug\netcoreapp3.1\TransactionsBO.csproj.CoreCompileInputs.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\obj\Debug\netcoreapp3.1\TransactionsBO.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\TransactionsBO\obj\Debug\netcoreapp3.1\TransactionsBO.pdb

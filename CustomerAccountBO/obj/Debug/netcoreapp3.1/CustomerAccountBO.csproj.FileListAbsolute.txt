@@ -1,0 +1,10 @@
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\bin\Debug\netcoreapp3.1\CustomerAccountBO.deps.json
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\bin\Debug\netcoreapp3.1\CustomerAccountBO.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\bin\Debug\netcoreapp3.1\CustomerAccountBO.pdb
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\obj\Debug\netcoreapp3.1\CustomerAccountBO.csproj.AssemblyReference.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\obj\Debug\netcoreapp3.1\CustomerAccountBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\obj\Debug\netcoreapp3.1\CustomerAccountBO.AssemblyInfoInputs.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\obj\Debug\netcoreapp3.1\CustomerAccountBO.AssemblyInfo.cs
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\obj\Debug\netcoreapp3.1\CustomerAccountBO.csproj.CoreCompileInputs.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\obj\Debug\netcoreapp3.1\CustomerAccountBO.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\CustomerAccountBO\obj\Debug\netcoreapp3.1\CustomerAccountBO.pdb

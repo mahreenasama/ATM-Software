@@ -1,0 +1,17 @@
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\AdminDAL.deps.json
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\AdminDAL.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\AdminDAL.pdb
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\LoginCredentialsBO.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\LoginCredentialsBO.pdb
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.csproj.AssemblyReference.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.AssemblyInfoInputs.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.AssemblyInfo.cs
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.csproj.CoreCompileInputs.cache
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.csproj.CopyComplete
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\obj\Debug\netcoreapp3.1\AdminDAL.pdb
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\CustomerAccountBO.dll
+C:\Users\Mahreen Asama\source\repos\ATMSoftware3\AdminDAL\bin\Debug\netcoreapp3.1\CustomerAccountBO.pdb

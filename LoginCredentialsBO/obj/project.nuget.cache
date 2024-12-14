@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0IcynY5rNIAMM2zcWL2sCL2w3+vdF6IY171SPBZpUama6Oq+ZWC+jUDVT1QQBgkXcL5dT9ke9yrGHNPB4rcFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

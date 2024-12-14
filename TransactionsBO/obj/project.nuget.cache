@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KFOq9GF7rk0uiKKxuvCj6ulSsipdVhg5A8OXG3rMEf6zjmm8q2NrIfv6yar/w6YbtipAadpp/zXUEWbk4KNVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\TransactionsBO\\TransactionsBO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

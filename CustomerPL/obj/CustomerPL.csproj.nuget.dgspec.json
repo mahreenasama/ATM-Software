@@ -1,0 +1,583 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerPL\\CustomerPL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\AdminDAL\\AdminDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\AdminDAL\\AdminDAL.csproj",
+        "projectName": "AdminDAL",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\AdminDAL\\AdminDAL.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\AdminDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerAccountBO\\CustomerAccountBO.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerAccountBO\\CustomerAccountBO.csproj"
+              },
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0-preview1.22069.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\AdminDAL\\AdminDAL.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\AdminDAL\\AdminDAL.csproj"
+              },
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerDAL\\CustomerDAL.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerDAL\\CustomerDAL.csproj"
+              },
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerAccountBO\\CustomerAccountBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerAccountBO\\CustomerAccountBO.csproj",
+        "projectName": "CustomerAccountBO",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerAccountBO\\CustomerAccountBO.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerAccountBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerDAL\\CustomerDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerDAL\\CustomerDAL.csproj",
+        "projectName": "CustomerDAL",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerDAL\\CustomerDAL.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0-preview1.22069.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerPL\\CustomerPL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerPL\\CustomerPL.csproj",
+        "projectName": "CustomerPL",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerPL\\CustomerPL.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\CustomerPL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\PL\\PL.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\PL\\PL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0-preview1.22069.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj",
+        "projectName": "LoginCredentialsBO",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\PL\\PL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\PL\\PL.csproj",
+        "projectName": "PL",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\PL\\PL.csproj",
+        "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\PL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj": {
+                "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\ATMSoftware3\\LoginCredentialsBO\\LoginCredentialsBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
